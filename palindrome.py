@@ -2,6 +2,6 @@
 
 n = str(input("Enter a name :"))
 if n == n[::-1]:
-    print("Palindrome !!!")
+    print(f"{n} is Palindrome !!!")
 else:
-    print(" Not Palindrome...")
+    print(f"{n} is Not Palindrome...")
