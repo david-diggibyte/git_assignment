@@ -14,5 +14,7 @@ while count <= num1:
     total1 = total1 * count
     print(total1)
     count +=1
+# added one line for fetch purpose
+
 
 
